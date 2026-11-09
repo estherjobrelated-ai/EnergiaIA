@@ -1,4 +1,6 @@
-![EnergiaIA](imagem.png)
+<p align="center">
+  <img src="IMG_0350.jpeg" alt="EnergiaIA" width="400">
+</p>
 
 EnergiaIA
 
