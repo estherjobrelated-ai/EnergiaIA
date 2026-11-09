@@ -1,4 +1,3 @@
-[EnergiaIA](IMG_0455.jpeg)
 
 
 
