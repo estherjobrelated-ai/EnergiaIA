@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="IMG_0350.jpeg" alt="EnergiaIA" width="400">
-</p>
+![EnergiaIA](IMG_0455.jpeg)
 
 
 
