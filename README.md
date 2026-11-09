@@ -4,7 +4,7 @@
 
 EnergiaIA
 
-![EnergiaIA](imagem.png)
+
 
 # EnergiaIA
 
